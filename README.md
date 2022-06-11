@@ -4,11 +4,11 @@
 - 🦄 I'm NaixiNana
 - 🌱 I’m currently learning `Python` | `Html` | `Java`
 - 📫 Discord: `NaixiNana#8125` | QQ: `473286205` | TG: [`naixinana`](https://t.me/naixinana) | Site: [`naiximcn.github.io`](https://naiximcn.github.io)
-- 🔭 I’m currently working on my McServer, my Site and my Python App
-- 👯 I’m looking to collaborate on my McServer
-- 🤔 I’m looking for help with my Site
-- 😄 Pronouns: Non-binary gender
-- ⚡ Fun fact: I'm a student
+- 🔭 I’m currently working on my `McServer`, `my Site` and `my Python App`
+- 👯 I’m looking to collaborate on `my McServer`
+- 🤔 I’m looking for help with `my Site`
+- 😄 Pronouns: `Non-binary gender`
+- ⚡ Fun fact: I'm a `student`
 
 <p align="center"><img align="center" src="/github.gif"></p>
 
