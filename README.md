@@ -12,11 +12,13 @@
 
 <p align="center"><img align="center" src="/github.gif"></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=naiximcn"></p>
+<p align="center"><img align="center" src="https://count.getloli.com/get/@naiximcn"></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=naiximcn"></p>\
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrxiaom&show_icons=true&title_color=00FFC6&text_color=F8F8FF&icon_color=fff000&bg_color=30,10111E,282A35&hide_border=true&locale=cn"></p>
 
 <p align="center"><img align="center" src="https://api.56lx.cn/api/netcard/api.php"></p>
-
-<p align="center"><img align="center" src="https://count.getloli.com/get/@naiximcn"></p>
 
 <!--
 **naiximcn/naiximcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
