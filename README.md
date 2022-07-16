@@ -14,7 +14,7 @@
 
 <p align="center"><img align="center" src="https://count.getloli.com/get/@naiximcn"></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=naiximcn"></p>\
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=naiximcn"></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=naiximcn&show_icons=true&title_color=00FFC6&text_color=F8F8FF&icon_color=fff000&bg_color=30,10111E,282A35&hide_border=true&locale=cn"></p>
 
