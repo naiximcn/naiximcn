@@ -18,8 +18,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=naiximcn&show_icons=true&title_color=00FFC6&text_color=F8F8FF&icon_color=fff000&bg_color=30,10111E,282A35&hide_border=true&locale=cn"></p>
 
-<p align="center"><img align="center" src="https://api.56lx.cn/api/netcard/api.php"></p>
-
 ## Ad: Join my minecraft server: `mc.naixi.eu.org`  know others: [`Server Site`](https://mcserver.naixi.eu.org)
 
 <!--
