@@ -18,10 +18,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=naiximcn&show_icons=true&title_color=00FFC6&text_color=F8F8FF&icon_color=fff000&bg_color=30,10111E,282A35&hide_border=true&locale=cn"></p>
 
-## Ad: 
-### Join my minecraft server: `mc.naixi.eu.org`  know others: [`Server Site`](https://mcserver.naixi.eu.org)
-### And you can try `Winds` minecraft server too. IP: `breeze.asia`
-
 <!--
 **naiximcn/naiximcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
