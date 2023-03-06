@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my `McServer`, `my Site` and `my Python App`
 - 👯 I’m looking to collaborate on `my McServer`
 - 🤔 I’m looking for help with `my Site`
-- 😄 Pronouns: `Non-binary gender`
+- 😄 Pronouns: `SB`
 - ⚡ Fun fact: I'm only a `student`
 
 <p align="center"><img align="center" src="/github.gif"></p>
@@ -17,8 +17,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=naiximcn"></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=naiximcn&show_icons=true&title_color=00FFC6&text_color=F8F8FF&icon_color=fff000&bg_color=30,10111E,282A35&hide_border=true&locale=cn"></p>
-
-域名我删掉了 不干了 wcnm
 
 <!--
 **naiximcn/naiximcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
