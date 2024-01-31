@@ -3,7 +3,7 @@
 
 - 🦄 I'm NaixiNana
 - 🌱 I’m currently learning `Python` | `Html` | `Java`
-- 📫 Discord: `NaixiNana#8125` | QQ: `None` | TG: [`naixinana`](https://t.me/naixinana) | Mail: [`niaixmcn@gmail.com`](mailto:niaixmcn@gmail.com) | Site: `None`
+- 📫 Discord: `NaixiNana#8125` | QQ: `None` | TG: [`naixinana`](https://t.me/naixinana) | Mail: [`niaixmcn@gmail.com`](mailto:niaixmcn@gmail.com) | Site: `?`
 - 🔭 I’m currently working on my `McServer`, `my Site` and `my Python App`
 - 👯 I’m looking to collaborate on `my McServer`
 - 🤔 I’m looking for help with `my Site`
